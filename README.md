@@ -10,3 +10,13 @@ CORTE 2
 Taller 1 Correccion Parcial: https://github.com/RaveenSoftware/CorreccionParcial
 
 Taller 2 Poner los atributos a la clase: https://github.com/RaveenSoftware/Taller2Corte2-AtributosDeClases-
+
+
+
+
+
+CORTE 3
+
+Correccion del parcial: 
+
+Taller en clase: https://github.com/RaveenSoftware/TallerEnClase
